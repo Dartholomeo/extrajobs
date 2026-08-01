@@ -1,0 +1,56 @@
+{
+  "id": "extrajobs",
+  "title": "Extra Jobs",
+  "description": "<p>Crafting extension with advanced requirements, specializations, JSON import/export, Special Jobs and Master Jobs.</p>",
+  "version": "1.3.1",
+
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+
+  "authors": [
+    {
+      "name": "Dartholomeo",
+      "url": "https://www.patreon.com/c/Dartholomeo"
+    }
+  ],
+
+  "url": "https://github.com/Dartholomeo/extrajobs",
+  "manifest": "https://github.com/Dartholomeo/extrajobs/releases/latest/download/module.json",
+  "download": "https://github.com/Dartholomeo/extrajobs/releases/download/v1.3.1/extrajobs.zip",
+
+  "system": [
+    "dnd5e"
+  ],
+
+  "esmodules": [
+    "main.js"
+  ],
+
+  "languages": [
+    {
+      "lang": "it",
+      "name": "Italiano",
+      "path": "lang/it.json"
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+
+  "relationships": {
+    "requires": [
+      {
+        "id": "craftingsystem",
+        "type": "module",
+        "manifest": "https://github.com/Dartholomeo/craftingsystem/releases/latest/download/module.json",
+        "compatibility": {
+          "minimum": "1.2.1"
+        }
+      }
+    ]
+  }
+}

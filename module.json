@@ -46,7 +46,7 @@
       {
         "id": "craftingsystem",
         "type": "module",
-        "manifest": "https://github.com/Dartholomeo/craftingsystem/releases/latest/download/module.json",
+        "manifest": "https://github.com/Dartholomeo/craftingsystem/releases/download/v1.2.1/module.json",
         "compatibility": {
           "minimum": "1.2.1"
         }

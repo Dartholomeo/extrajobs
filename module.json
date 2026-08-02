@@ -17,7 +17,7 @@
   ],
 
   "url": "https://github.com/Dartholomeo/extrajobs",
-  "manifest": "https://github.com/Dartholomeo/extrajobs/releases/latest/download/module.json",
+  "manifest": "https://github.com/Dartholomeo/extrajobs/releases/download/v1.3.1/module.json",
   "download": "https://github.com/Dartholomeo/extrajobs/releases/download/v1.3.1/extrajobs.zip",
 
   "system": [
